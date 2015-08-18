@@ -4,7 +4,7 @@ namespace app\models;
 
 use yii\db\ActiveRecord;
 
-class Customer extends ActiveRecord
+class User extends ActiveRecord
 { 
     /**
      * @return string the name of the table associated with this ActiveRecord class.
